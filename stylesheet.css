@@ -1,0 +1,89 @@
+body{
+	background-color: darkgrey;
+}
+
+.header{
+	height: 70px;
+	background-color:#827d7e;
+	border-radius: 22px;
+}
+
+
+.title{
+	margin:0 0 0 47%;
+	width:5%;
+	display: block;
+	height:100%;
+	border-radius: 22px;
+	cursor:pointer;
+	}
+
+.title img{
+	padding:8px 8px;
+
+}
+
+.title:hover{
+	background-color: darkgrey;
+}
+
+.mid{
+	text-align: center;
+	display: block;
+}
+
+textarea{
+	background-color:rgba(0,0,0,0.8);
+	border:none;
+	border-radius: 22px;
+	margin:50px 180px 0 180px;
+	padding:5px 10px;
+	font-size: 15px;
+	color:lightblue;
+	box-shadow: 3.5px 3.5px grey;
+}
+
+.result p{
+	float:left;
+	font-weight: bold;
+	font-size: 44px;
+	color:rgba(0,0,0,0.8);
+	padding-right: 22px;
+	margin-left: 35%;
+}
+
+.result input{
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 22px;
+	border: none;
+	box-shadow:3.5px 3.5px grey;
+	color: lightblue;
+	cursor: not-allowed;
+	padding: 12px;
+	text-align: center;
+	font-size: 22px;
+}
+
+.foot{
+	margin:20px 300px;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.foot input{
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 22px;
+	border: none;
+	box-shadow:3.5px 3.5px grey;
+	color: lightblue;
+	cursor: not-allowed;
+	text-align: center;
+	padding:8px;
+	font-size: 15px;
+}
+
+.foot p{
+	float: left;
+	padding: 0 50px;
+}
+
