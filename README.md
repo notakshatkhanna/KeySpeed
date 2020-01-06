@@ -1,0 +1,2 @@
+# KeySpeed
+ Typing Speed Calculator
